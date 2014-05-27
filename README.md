@@ -3,10 +3,11 @@ kitchenpop
 
 What is this?
 -------------
-Four ways to make holiday magic with your microwave
+Four ways to make holiday magic with your microwave, a stop motion, animated feature.
 
 Live demo: http://data.digitalfirstmedia.com/kitchenpop/
 
+![Kitchen pop](screenshots/kpop.png)
 
 Credits
 ---------
